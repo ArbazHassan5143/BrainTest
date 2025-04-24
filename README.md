@@ -21,7 +21,7 @@
  - [:rocket: Deployment](#deploy) 
 
 
-## [→→→ **:open_book: OPEN QUIZZES :open_book:** ← ← ← ](https://bandinopla.github.io/skill-assessments-quizzes/)
+## [→→→ **:open_book: OPEN QUIZZES :open_book:** ← ← ← ](https://ArbazHassan5143.github.io/skill-assessments-quizzes/)
 
 ![Quizzes on Many Topics](cover.jpg)
 
@@ -87,7 +87,7 @@ There are 2 sources of language dictionaries:
 2. the individual quizzes translation files (for the quiz itself)
 
 #### 1. System/UI language
-To translate for this web app, [fork this repo](https://github.com/bandinopla/skill-assessments-quizzes) make the translation and do a pull request.
+To translate for this web app, [fork this repo](https://github.com/ArbazHassan5143/skill-assessments-quizzes) make the translation and do a pull request.
 
 this web app can be translated by creating a [YAML](https://yaml.org/) file in the `l18n` folder named after the language that it is meant to translate. We use the [iso-language-codes](https://www.npmjs.com/package/iso-language-codes) package. We espect is a **[ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)** code for the file name of each language file. Example: `es.yaml` for spanish...
 
@@ -104,7 +104,7 @@ to collab with the quizzes repo and transalte a quiz to another language head ov
 
 ---
 ## <a id="contribute"></a>:computer: **Contribute with** Coding / Bug Fixing
-To contribute with new mechanic or bug fixing for this web app, [fork this repo](https://github.com/bandinopla/skill-assessments-quizzes) do your thing and pull request.
+To contribute with new mechanic or bug fixing for this web app, [fork this repo](https://github.com/ArbazHassan5143/skill-assessments-quizzes) do your thing and pull request.
 
 ---
 ## <a id="testing"></a>:robot: Testing / Verification
@@ -122,21 +122,6 @@ npm run test
 This webapp uses github actions. Any push into the main branch will automatically trigger a github page deploy. See `.github/workflows/deploy.yml`
 
 ---
-<a id="#contributors-"></a>
-## Contributors ✨
-
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/johnfelipe"><img src="https://avatars.githubusercontent.com/u/428820?v=4?s=100" width="100px;" alt=""/><br /><sub><b>felipe</b></sub></a><br /><a href="#ideas-johnfelipe" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://z1n0v1.github.io/"><img src="https://avatars.githubusercontent.com/u/98004928?v=4?s=100" width="100px;" alt=""/><br /><sub><b>z1n0v1</b></sub></a><br /><a href="https://github.com/bandinopla/skill-assessments-quizzes/issues?q=author%3Az1n0v1" title="Bug reports">🐛</a></td>
-  </tr>
-</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
